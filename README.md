@@ -7,7 +7,6 @@ I love to learn new and interesting things and want to explore, excel and develo
 Here are some ideas to get you started:
 
 -->
-
 - 🔭 I've worked on various Web Development Projects, major one being deployed at <a href="http://ccet.ac.in">CCET's College Website</a><br />
 - 👯 I’m currently working on Data Science And Research based Projects<br />
 - 💬 Ask me about Web Development in Django, Data Science, Architectural Decisions, Machine Learning<br />
@@ -27,4 +26,5 @@ Here are some ideas to get you started:
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <br />
+<h2>Github Stats</h2>
 ![Anshul's Github Stats](https://github-readme-stats.vercel.app/api?username=anshulg954&show_icons=true&theme=radical)
