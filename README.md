@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Web Development in Django, Data Science, Architectural Decisions, Machine Learning, Data Mining, Textual Data<br />
 - 📫 How to reach me: <a href="https://www.instagram.com/anshulg954/"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/anshulg954/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/anshulg954"> <img src="https://image.flaticon.com/icons/svg/" width="25px;"></a> <br />
+<a href="https://twitter.com/anshulg954"> <img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://guptaanshul.me"> <img src="https://github.com/anshulg954/anshulg954.github.io/blob/master/img/01.png" width="25px;"></a> <br />
 - 😄 Pronouns: HardWorking, TeamLeader, Passionate <br />
 - ⚡ Fun fact: I am a good entertainer at times.<br />
