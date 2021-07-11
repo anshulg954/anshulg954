@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Computer Science Undergraduate, presently in my fifth semester of the Bachelor's degree.
+I am a Computer Science Undergraduate, presently in my sixth semester of the Bachelor's degree.
 I love to learn new and interesting things and want to explore, excel and develop alongside an institution/organization that offers best practices, and provides diverse knowledge in the current domain I am in, with a penchant of meeting deadlines.<br />
 <!--
 **anshulg954/anshulg954** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
