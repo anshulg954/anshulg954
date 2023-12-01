@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 During my undergrad journey, I've worked on various Web Development Projects, major one being deployed at <a href="http://ccet.ac.in">CCET's College Website</a> and have basic knowledge of ML algorithms & Deep Learning.<br />
-- 👯 I’m currently working as a Research Assistant at <a href="https://ml.informatik.uni-freiburg.de/team/#students">Auto ML Lab</a> and previously I have worked as a full time Software Developer at <a href="https://jungleworks.com">Jungleworks</a>.<br />
+- 👯 I’m currently working as a Research Assistant at <a href="https://ml.informatik.uni-freiburg.de/team/#students">Auto ML Lab</a> under the guidance of <a href="https://ml.informatik.uni-freiburg.de/profile/mueller/">Samuel Müller</a> and <a href="https://ml.informatik.uni-freiburg.de/profile/hutter/">Prof. Frank Hutter</a> and previously I have worked as a full time Software Developer at <a href="https://jungleworks.com">Jungleworks</a>.<br />
 - 💬 Ask me about Data Analytics, Data Visualizations, Data Science, Architectural Decisions, Machine Learning, Data Mining, Web Development in Django<br />
 - 📫 How to reach me: <a href="https://www.instagram.com/anshulg954/"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/anshulg954/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
