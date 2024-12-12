@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 During my undergrad journey, I've worked on various Projects, different teams and have basic knowledge of ML algorithms & Deep Learning.<br />
 - 👯 I’m currently working as a Research Assistant at <a href="https://ml.informatik.uni-freiburg.de/team/#students">Auto ML Lab</a> under the guidance of <a href="https://ml.informatik.uni-freiburg.de/profile/mueller/">Samuel Müller</a>, <a href="https://ml.informatik.uni-freiburg.de/profile/hollmann/">Noah Hollmann</a>, <a href="https://ml.informatik.uni-freiburg.de/profile/purucker/">Lennart Purucker</a>, and <a href="https://ml.informatik.uni-freiburg.de/profile/hutter/">Prof. Frank Hutter</a> and previously I have worked as a full time Software Developer at <a href="https://jungleworks.com">Jungleworks</a> for 1.9 years.<br />
-- 💬 Ask me about Data Analytics, Data Visualizations, Data Science, Architectural Decisions, Machine Learning, Data Mining, Web Development in Django<br />
+- 💬 Ask me about Data Analytics, Data Visualizations, Data Science, Architectural Decisions, Machine Learning, Data Mining, Web Development.<br />
 - 📫 How to reach me: <a href="https://www.instagram.com/anshulg954/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/anshulg954/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/anshulg954"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
