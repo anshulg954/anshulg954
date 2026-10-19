@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I am a Computer Science Graduate pursuing MSc. Computer Science with Specialization in AI at the University of Freiburg. I am passionate about pushing the boundaries of ML research while building robust, scalable systems in interdisciplinary domains.
+I am a PhD Student at Chair of Practical Computer Science I: Data Analytics, Data and WebScience Group, University of Mannheim supervised by [Prof. Dr. Rainer Gemulla](https://www.uni-mannheim.de/dws/people/professors/prof-dr-rainer-gemulla/). I am passionate about pushing the boundaries of ML research currently focusing on Relational Foundation Models.
 
-- 🏆 **Recent Highlight:** My Master's Project paper [`Towards Benchmarking Foundation Models for Tabular Data With Text`](https://arxiv.org/abs/2507.07829) was presented at the **Foundation Models for Structured Data Workshop, ICML 2025**, supervised by [Lennart Purucker](https://ml.informatik.uni-freiburg.de/profile/purucker/).
+- 🏆 **Recent Highlight:** I graduated from the University of Freiburg with a Master's in Computer Science, specializing in Artificial Intelligence, under the supervision of [Prof. Dr. Frank Hutter's](https://ml.informatik.uni-freiburg.de/profile/hutter/), with an overall grade of 1.4, which corresponds to excellent in the German grading scale. My master's thesis focused on "Context-Aware Data Curation and Data Mixtures for Pre-training of Tabular Foundation Models". 
 
 - 🔭 I have hands-on experience with ML algorithms, Deep Learning, and a growing focus on Tabular Foundation Models through various research projects and teams.
+
+- My Master's Project paper [`Towards Benchmarking Foundation Models for Tabular Data With Text`](https://arxiv.org/abs/2507.07829) was presented at the **Foundation Models for Structured Data Workshop, ICML 2025**, supervised by [Lennart Purucker](https://ml.informatik.uni-freiburg.de/profile/purucker/).
 
 - 💻 Under [Prof. Dr. Frank Hutter's](https://ml.informatik.uni-freiburg.de/profile/hutter/) supervision, I am currently working on domain-specific benchmarking of tabular data and building context-aware tables. I also served as a `Teaching Assistant` for the AutoML Course Summer 2025, supervised by [André Biedenkapp](https://ml.informatik.uni-freiburg.de/profile/biedenkapp/), [Neeratyoy Mallik](https://ml.informatik.uni-freiburg.de/profile/mallik/), and [Alexander Pfefferle](https://ml.informatik.uni-freiburg.de/profile/pfefferle/).
 
