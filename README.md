@@ -2,7 +2,7 @@
 
 I am a PhD Student at Chair of Practical Computer Science I: Data Analytics, Data and WebScience Group, University of Mannheim supervised by [Prof. Dr. Rainer Gemulla](https://www.uni-mannheim.de/dws/people/professors/prof-dr-rainer-gemulla/). I am passionate about pushing the boundaries of ML research currently focusing on Relational Foundation Models.
 
-- 🏆 **Recent Highlight:** I graduated from the University of Freiburg with a Master's in Computer Science, specializing in Artificial Intelligence, under the supervision of [Prof. Dr. Frank Hutter's](https://ml.informatik.uni-freiburg.de/profile/hutter/), with an overall grade of 1.4, which corresponds to excellent in the German grading scale. My master's thesis focused on "Context-Aware Data Curation and Data Mixtures for Pre-training of Tabular Foundation Models". 
+- 🏆 **Recent Highlight:** I graduated from the University of Freiburg with a Master's in Computer Science, specializing in Artificial Intelligence, under the supervision of [Prof. Dr. Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/), with an overall grade of 1.4, which corresponds to excellent in the German grading scale. My master's thesis focused on "Context-Aware Data Curation and Data Mixtures for Pre-training of Tabular Foundation Models". 
 
 - 🔭 I have hands-on experience with ML algorithms, Deep Learning, and a growing focus on Tabular Foundation Models through various research projects and teams.
 
